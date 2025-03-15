@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ALI ZAIN</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Python Developer.</h3>
 
-- 🔭 I’m currently working on **Smart Lawyer Assistant Project**
+- 🔭 I’m currently working on **"Smart Lawyer Assistant Project"**
 
-- 🌱 I’m currently learning **Neural networks, Tensorflow**
+- 🌱 I’m currently learning **Neural networks, and Tensorflow.**
 
 - 📝 I regularly write articles on [www.thetechboss.com](www.thetechboss.com)
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, and Machine Learning**
 
 - 📫 How to reach me **methealizain@gmail.com**
 
